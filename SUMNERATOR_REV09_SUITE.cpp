@@ -64,7 +64,7 @@ bool IMPLANT_HELIX()
 	if (probe.fail())
 	{
 		probe.close();
-		return -1;
+		return false;
 	}
 
 	probe.close();

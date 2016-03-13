@@ -312,8 +312,8 @@ int main()
 << "crunch;string zowie;getline(YOU_ARE_NOT_AUTHORIZED_TO_READ_THIS,zowie);" << endl
 << "if(YOU_ARE_NOT_AUTHORIZED_TO_READ_THIS.fail())bang=zap;crunch=bam;int" << endl
 << "klonk='('-'+'+'-'-'*'+')'-'('-'+'+'-'-'*'+')';int whap=klonk+zap;int" << endl
-<< "klunk='('-'+'-'*'+')'-'('-'+'+'/'+')'-'('+'/'-'*'+')';int zamm;int zam=" << endl
-<< "klonk*klonk+klunk*klunk+klonk*klunk;zamm=zam-klonk;int zammm=" << endl
+<< "klunk='('-'+'-'*'+')'-'('-'+'+'/'+')'-'('+'/'-'*'+')';int zam=" << endl
+<< "klonk*klonk+klunk*klunk+klonk*klunk;int zamm=zam-klonk;int zammm=" << endl
 << "klonk*klunk*klonk*whap;while(crunch<zowie.length()){int kerplop=bam;" << endl
 << "for(int whack=whap;whack>=bam;whack--){char kapow=zowie[crunch];" << endl
 << "int thwack=klonk+whack+klonk;kerplop+=(kapow==zam?pow(klonk,klunk-whack):" << endl
